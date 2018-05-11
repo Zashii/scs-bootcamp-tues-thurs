@@ -1,0 +1,26 @@
+li {
+    color: white;
+}
+
+h3 {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
